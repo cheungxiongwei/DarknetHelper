@@ -1,0 +1,7 @@
+*.pro.user
+!/bin/DarknetConfig.exe
+/bin/untitled*
+/bin/DarknetHelper.exe
+/bin/DarknetHelper.pdb
+
+
